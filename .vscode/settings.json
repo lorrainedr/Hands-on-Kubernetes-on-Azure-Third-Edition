@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "kubernetes://schema/v1%40service": "file:///d%3A/Projects/LEARN/AKS/Hands-on-Kubernetes-on-Azure-Third-Edition/Chapter02/azure-vote.yaml"
+    }
+}
